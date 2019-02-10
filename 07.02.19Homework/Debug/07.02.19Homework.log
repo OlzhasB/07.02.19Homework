@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\biahm\source\repos\07.02.19homework\07.02.19homework\source.cpp(40): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  c:\users\biahm\source\repos\07.02.19homework\07.02.19homework\source.cpp(79): note: see reference to function template instantiation 'int XYdegree<float>(T &,int)' being compiled
+          with
+          [
+              T=float
+          ]
+  07.02.19Homework.vcxproj -> C:\Users\biahm\source\repos\07.02.19Homework\Debug\07.02.19Homework.exe
